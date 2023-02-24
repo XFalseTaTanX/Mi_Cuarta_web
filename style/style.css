@@ -1,0 +1,20 @@
+.encabezado{
+    color:white;
+    text-align: center;
+    font-family: 'Qwigley', cursive;
+    background-color: black;
+}
+table{
+    display: flex;
+    justify-content: center;
+    background-color:rgb(0, 0, 0);
+    font-family: 'Henny Penny', cursive;
+    color:rgb(255, 255, 255);
+}
+body{
+    background-image: url(https://fondosmil.com/fondo/25777.jpg);
+}
+.img{
+    display: flex;
+    justify-content: center;
+}
